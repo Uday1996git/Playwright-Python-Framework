@@ -1,0 +1,7 @@
+env: "https://playwright.dev/python"
+browser: "ChRoMe"
+headless: true
+slowmo: 500
+Traces: False
+RecordVideo: False
+

@@ -1,0 +1,7 @@
+14:21:12 2024-08-01 DEBUG Using selector: KqueueSelector
+14:21:17 2024-08-01 INFO Running Get Started button Test case
+14:21:19 2024-08-01 INFO Successfully navigated to desired url
+14:21:19 2024-08-01 INFO Successfully located element
+14:21:19 2024-08-01 INFO Get started button is visible and is validated
+14:21:20 2024-08-01 INFO Successfully clicked on get Started button
+14:21:20 2024-08-01 INFO Validated the Installation heading on the get started page
